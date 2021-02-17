@@ -3,7 +3,7 @@ ___
 # Bash Commands Cheatsheet
 ___
 
-**This is a list of commonly usedb bash commands:**
+**This is a list of commonly used bash commands:**
 
 * **Anything encased in [ ]** - Means it’s optional
 * **ls** - Lists directory contents 
